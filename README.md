@@ -2,6 +2,8 @@
 
 ### 📌 Desenvolvimento do Focus Timer na versão 3.0 com 2 opções de layout , sendo um light-mode e o outro dark-mode , com base em layout do figma. 
 
+🔗 Link -> <a href="https://rodrigoluigi.github.io/Focus-Timer-Pomodoro/" target=_blank>Focus Timer Pomodoro</a>
+
 # <br><img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
 Projeto de um **timer ou cronômetro** para marcar um determinado período de tempo, e um **menu de músicas** ambiente para ajudar a focar nas atividades do dia a dia. Foi desenvolvido toda a estrutura do html, buscando sempre as melhores tags para se utilizar de forma semântica, estilização CSS, e funcionalidades através do JavaScript.
